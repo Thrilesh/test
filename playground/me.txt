@@ -1,5 +1,0 @@
-{{#user}
-Name: Thrilesh
-Skills: C, Python, Django, SQL
-Email: naiduthrilesh@gmail.com
-{{/user}}
